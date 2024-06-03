@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/sharon-commerce/Shared%20Documents/eds-storefront/
+  /: https://adobe.sharepoint.com/:f:/s/sharon-commerce/EsA-kjPphctEub1LYTwusmgBUIbLRzRTrScTv1eywaRjYA?email=helix%40adobe.com&e=G4VEOF
 
 folders:
   /products/: /products/default
